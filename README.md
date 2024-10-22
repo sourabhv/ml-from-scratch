@@ -4,28 +4,38 @@ This repository contains implementations of Machine Learning algorithms and mode
 
 ## Table of Contents
 
-- [ ] Linear Regression
-- [ ] Logistic Regression
-- [x] K-Nearest Neighbors
-- [ ] K-Means
-- [ ] Decision Trees
-- [ ] Random Forests
-- [ ] Support Vector Machines
-- [ ] Principal Component Analysis
-- [ ] Backpropagation
-- [ ] Gradient Descent
-- [ ] Neural Networks
-- [ ] Convolutional Neural Networks
-- [ ] Recurrent Neural Networks
-- [ ] Long Short-Term Memory Networks
-- [ ] Gated Recurrent Units
-- [ ] Transformer Networks
-- [ ] Generative Adversarial Networks
-- [ ] Autoencoders
-- [ ] Reinforcement Learning
-- [ ] Q-Learning
-- [ ] *... and more ...*
+**Statistical Models**
 
+- [x] **Linear Regression** – Basic regression model, foundation for learning.
+- [ ] **Logistic Regression** – Basic classification model.
+- [ ] **Ridge and Lasso Regression** – Regularized versions of Linear Regression.
+- [x] **K-Nearest Neighbors (KNN)** – Simple non-parametric model for classification/regression.
+- [ ] **Naive Bayes** – Probabilistic model based on Bayes' theorem.
+- [ ] **K-Means** – Basic clustering algorithm.
+- [ ] **T-SNE** - t-Distributed Stochastic Neighbor Embedding, dimensionality reduction technique.
+- [ ] **Principal Component Analysis (PCA)** – Dimensionality reduction.
+- [ ] **Singular Value Decomposition (SVD)** – Matrix factorization for dimensionality reduction.
+- [ ] **Decision Trees** – Simple interpretable model for classification/regression.
+- [ ] **Random Forests** – Ensemble of Decision Trees, improves accuracy.
+- [ ] **Support Vector Machines (SVM)** – Powerful classification/regression model.
+- [ ] **XGBoost** – State-of-the-art boosting algorithm for classification/regression.
+- [ ] **Bayesian Networks** – Probabilistic graphical model.
+- [ ] **Markov Decision Processes (MDPs)** – Framework for modeling decisions, often used in RL.
+
+**Neural Network based Models:**
+
+- [ ] **Neural Networks (NNs)** – Foundation for deep learning, learning weights and activations.
+- [ ] **Backpropagation** – Essential algorithm for training NNs.
+- [ ] **Gradient Descent** – Optimization method used in NNs.
+- [ ] **Convolutional Neural Networks (CNNs)** – Specialized NNs for image data.
+- [ ] **Recurrent Neural Networks (RNNs)** – NNs for sequential data.
+- [ ] **Long Short-Term Memory Networks (LSTMs)** – Improved RNNs, handling long sequences.
+- [ ] **Gated Recurrent Units (GRUs)** – Another variant of RNNs, simpler than LSTMs.
+- [ ] **Transformer Networks** – State-of-the-art model for sequential data (e.g., NLP).
+- [ ] **Autoencoders** – NNs for unsupervised learning and dimensionality reduction.
+- [ ] **Generative Adversarial Networks (GANs)** – NNs for generating new data.
+- [ ] **Reinforcement Learning** – Learning to take actions in an environment.
+- [ ] **Q-Learning** – Used in Reinforcement Learning; can involve neural nets.
 
 ## Installation
 
