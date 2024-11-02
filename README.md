@@ -8,7 +8,7 @@ This repository contains implementations of Machine Learning algorithms and mode
 
 - [x] **Linear Regression** – Basic regression model, foundation for learning.
 - [x] **Logistic Regression** – Basic classification model.
-- [ ] **Ridge and Lasso Regression** – Regularized versions of Linear Regression.
+- [x] **Ridge and Lasso Regression** – Regularized versions of Linear Regression.
 - [x] **K-Nearest Neighbors (KNN)** – Simple non-parametric model for classification/regression.
 - [ ] **Naive Bayes** – Probabilistic model based on Bayes' theorem.
 - [ ] **K-Means** – Basic clustering algorithm.
