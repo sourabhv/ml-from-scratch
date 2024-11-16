@@ -10,7 +10,7 @@ This repository contains implementations of Machine Learning algorithms and mode
 - [x] **Logistic Regression** – Basic classification model.
 - [x] **Ridge and Lasso Regression** – Regularized versions of Linear Regression.
 - [x] **K-Nearest Neighbors (KNN)** – Simple non-parametric model for classification/regression.
-- [ ] **Naive Bayes** – Probabilistic model based on Bayes' theorem.
+- [x] **Naive Bayes** – Probabilistic model based on Bayes' theorem.
 - [ ] **K-Means** – Basic clustering algorithm.
 - [ ] **T-SNE** - t-Distributed Stochastic Neighbor Embedding, dimensionality reduction technique.
 - [ ] **Principal Component Analysis (PCA)** – Dimensionality reduction.
