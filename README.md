@@ -6,12 +6,12 @@ This repository contains implementations of Machine Learning algorithms and mode
 
 **Statistical Models**
 
-- [x] **Linear Regression** – Basic regression model, foundation for learning.
-- [x] **Logistic Regression** – Basic classification model.
-- [x] **Ridge and Lasso Regression** – Regularized versions of Linear Regression.
-- [x] **K-Nearest Neighbors (KNN)** – Simple non-parametric model for classification/regression.
-- [x] **Naive Bayes** – Probabilistic model based on Bayes' theorem.
-- [x] **K-Means** – Basic clustering algorithm.
+- [x] [**Linear Regression**][lin-reg] – Basic regression model, foundation for learning.
+- [x] [**Logistic Regression**][logistic-reg] – Basic classification model.
+- [x] [**Ridge and Lasso Regression**][ridge-lasso] – Regularized versions of Linear Regression.
+- [x] [**K-Nearest Neighbors (KNN)**][knn] – Simple non-parametric model for classification/regression.
+- [x] [**Naive Bayes**][naive-bayes] – Probabilistic model based on Bayes' theorem.
+- [x] [**K-Means**][k-means] – Basic clustering algorithm.
 - [ ] **T-SNE** - t-Distributed Stochastic Neighbor Embedding, dimensionality reduction technique.
 - [ ] **Principal Component Analysis (PCA)** – Dimensionality reduction.
 - [ ] **Singular Value Decomposition (SVD)** – Matrix factorization for dimensionality reduction.
@@ -36,6 +36,13 @@ This repository contains implementations of Machine Learning algorithms and mode
 - [ ] **Generative Adversarial Networks (GANs)** – NNs for generating new data.
 - [ ] **Reinforcement Learning** – Learning to take actions in an environment.
 - [ ] **Q-Learning** – Used in Reinforcement Learning; can involve neural nets.
+
+[lin-reg]: ./01-linear-regression.ipynb
+[logistic-reg]: ./02-logistic-regression.ipynb
+[ridge-lasso]: ./03-ridge-lasso-regression.ipynb
+[knn]: ./04-knn.ipynb
+[naive-bayes]: ./05-naive-bayes.ipynb
+[k-means]: ./06-k-means.ipynb
 
 ## Installation
 
