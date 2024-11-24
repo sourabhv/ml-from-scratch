@@ -12,7 +12,7 @@ This repository contains implementations of Machine Learning algorithms and mode
 - [x] [**K-Nearest Neighbors (KNN)**][knn] – Simple non-parametric model for classification/regression.
 - [x] [**Naive Bayes**][naive-bayes] – Probabilistic model based on Bayes' theorem.
 - [x] [**K-Means**][k-means] – Basic clustering algorithm.
-- [ ] **T-SNE** - t-Distributed Stochastic Neighbor Embedding, dimensionality reduction technique.
+- [ ] [**T-SNE**][t-sne] - t-Distributed Stochastic Neighbor Embedding, dimensionality reduction technique.
 - [ ] **Principal Component Analysis (PCA)** – Dimensionality reduction.
 - [ ] **Singular Value Decomposition (SVD)** – Matrix factorization for dimensionality reduction.
 - [ ] **Decision Trees** – Simple interpretable model for classification/regression.
@@ -43,6 +43,7 @@ This repository contains implementations of Machine Learning algorithms and mode
 [knn]: ./04-knn.ipynb
 [naive-bayes]: ./05-naive-bayes.ipynb
 [k-means]: ./06-k-means.ipynb
+[t-sne]: ./07-t-sne.ipynb
 
 ## Installation
 
