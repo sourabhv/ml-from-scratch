@@ -12,7 +12,7 @@ This repository contains implementations of Machine Learning algorithms and mode
 - [x] [**K-Nearest Neighbors (KNN)**][knn] – Simple non-parametric model for classification/regression.
 - [x] [**Naive Bayes**][naive-bayes] – Probabilistic model based on Bayes' theorem.
 - [x] [**K-Means**][k-means] – Basic clustering algorithm.
-- [ ] [**T-SNE**][t-sne] - t-Distributed Stochastic Neighbor Embedding, dimensionality reduction technique.
+- [x] [**T-SNE**][t-sne] - t-Distributed Stochastic Neighbor Embedding, dimensionality reduction technique.
 - [ ] **Principal Component Analysis (PCA)** – Dimensionality reduction.
 - [ ] **Singular Value Decomposition (SVD)** – Matrix factorization for dimensionality reduction.
 - [ ] **Decision Trees** – Simple interpretable model for classification/regression.
