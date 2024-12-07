@@ -13,8 +13,8 @@ This repository contains implementations of Machine Learning algorithms and mode
 - [x] [**Naive Bayes**][naive-bayes] – Probabilistic model based on Bayes' theorem.
 - [x] [**K-Means**][k-means] – Basic clustering algorithm.
 - [x] [**T-SNE**][t-sne] - t-Distributed Stochastic Neighbor Embedding, dimensionality reduction technique.
-- [ ] **Principal Component Analysis (PCA)** – Dimensionality reduction.
 - [ ] **Singular Value Decomposition (SVD)** – Matrix factorization for dimensionality reduction.
+- [ ] **Principal Component Analysis (PCA)** – Dimensionality reduction.
 - [ ] **Decision Trees** – Simple interpretable model for classification/regression.
 - [ ] **Random Forests** – Ensemble of Decision Trees, improves accuracy.
 - [ ] **Support Vector Machines (SVM)** – Powerful classification/regression model.
